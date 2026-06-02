@@ -1,0 +1,12 @@
+# Construct local noise
+*.autosave
+*.backup*
+*.tmp
+
+# Export/build folders
+Build/
+build/
+
+# OS noise
+.DS_Store
+Thumbs.db
